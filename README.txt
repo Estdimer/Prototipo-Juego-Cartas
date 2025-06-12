@@ -13,4 +13,5 @@ Como abrir aplicacion Computador:
 Como abrir aplicacion Celular:
 1. Se necesita un sistema android (no compatible con todas las resoluciones) 
 2. Abrir carpeta APK Juego De Cartas
-3. iniciar JUEGODECARTAS.apk
+3. Instalar JUEGO DE CARTAS.apk
+4. Abrir aplicacion Juego De Cartas
