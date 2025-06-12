@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeb6a32c89028fb49b035f1986f19cc4, type: 3}
+  m_Name: Jefe3
+  m_EditorClassIdentifier: 
+  Dificulty: 16
+  Damage: 1
+  NameText: Jefe3
+  DescriptionText: fuerte
+  DificultyText: 16
+  DamageText: 1
+  Art: {fileID: 21300000, guid: 8066e15c4e3df6e4f9806f9d5f71e70a, type: 3}
+  BossPrefab: {fileID: 7135380517904923069, guid: 839073b33ae1bcd40942b289fc2488d5, type: 3}
+  value: 1
