@@ -3,5 +3,14 @@ Unity Version: 6000.0.32f1
 Cómo abrir el codigo:
 1. Abrir Unity Hub
 2. Seleccionar "Add" y elegir esta carpeta
-3. Abrir la escena "MainMenu" y hacer Play
-4. En Assets/Scripts se encuentra los codigos utilizados
+3. En Assets/Scripts se encuentra los codigos utilizados
+
+Como abrir aplicacion Computador:
+1. Se necesita tener windows instalado
+2. Abrir carpeta ejecutable 
+3. iniciar JuegoCartas.exe
+
+Como abrir aplicacion Celular:
+1. Se necesita un sistema con Pixel 5
+2. Abrir carpeta APK Juego De Cartas
+3. iniciar JUEGODECARTAS.apk
