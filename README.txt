@@ -1,5 +1,14 @@
 Proyecto: Soul Stranded
+Diego Paolo Aguilera Zamora 
+Esteban Nestor Diaz Mercado
+
 Unity Version: 6000.0.32f1
+
+Prototipo de juego de cartas
+Objetivo: -Jugar personajes en el tablero
+           para derrotar a los enemigos de la piramide
+          -Editar cartas en el editor de cartas para
+           ajustar el balance del juego
 
 Cómo abrir el codigo:
 1. Abrir Unity Hub
